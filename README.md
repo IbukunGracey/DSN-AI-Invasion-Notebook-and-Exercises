@@ -1,0 +1,2 @@
+# DSN-AI-Invasion-Notebook-and-Exercises
+In supporting the vision to build a world-class AI Ecosystem in Nigeria,  Data Science Nigeria (DSN) organized a one-week (30 hours) of Introductory Machine Learning training for beginners and early starters across 30 cities in Nigeria!  I was a visiting tutor for Akure AI+ Invasion which held from 25th to 29th March,  2019. The Introductory slides used,  Jupyter notebooks and exercises are contained in this repository. 
